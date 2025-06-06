@@ -1,6 +1,6 @@
 # Simple-sales-dashboard-design-
 
-This project demonstrates a basic sales dashboard using Python (Pandas, Matplotlib, Seaborn) to replicate a Tableau-style visual analysis. It includes monthly trends, regional performance, and product category comparisons with interactive insights.
+This project demonstrates a basic sales dashboard using Tableau-style visual analysis. It includes monthly trends, regional performance, and product category comparisons with interactive insights.
 
 Steps Followed
 
@@ -20,7 +20,8 @@ Steps Followed
    - **Donut Chart**: Sales by Product Category  ![1000086841](https://github.com/user-attachments/assets/02b3c576-db15-4d40-b80a-a477ce6ffaa7)
 
 
-   4.Filtering / Highlight 
+   4.Filtering / Highlight
+   -Drag Region or Category to Filters shelf.
    - Used colors to highlight high-performing regions/categories.
    - Data grouped and sorted to focus on meaningful comparisons.
 
